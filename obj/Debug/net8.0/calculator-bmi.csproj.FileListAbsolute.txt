@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\bin\Debug\net8.0\calculator-bmi.exe
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\bin\Debug\net8.0\calculator-bmi.deps.json
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\bin\Debug\net8.0\calculator-bmi.runtimeconfig.json
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\bin\Debug\net8.0\calculator-bmi.dll
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\bin\Debug\net8.0\calculator-bmi.pdb
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.dll
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\refint\calculator-bmi.dll
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.pdb
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\calculator-bmi.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\calculator-bmi\calculator-bmi\obj\Debug\net8.0\ref\calculator-bmi.dll
